@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CSI_week_1</string>
+    <string name="image_description">Pablo_Escobar</string>
+    <string name="name_text">Name: </string>
+    <string name="gender_text">Gender: </string>
+    <string name="age_text">Age: </string>
+    <string name="bounty_text">Bounty: </string>
+    <string name="subjectName_text">Pablo Escobar</string>
+    <string name="subjectGender_text">Male </string>
+    <string name="subjectAge_text">47 </string>
+    <string name="subjectBounty_text">$15,000 </string>
+    <string name="details_text">Details: </string>
+    <string name="subjectDetails_text">Escobar was born in Rionegro, Colombia and grew up in nearby Medellín. He studied briefly at Universidad Autónoma Latinoamericana of Medellin but left without a degree; he began to engage in criminal activity that involved selling contraband cigarettes and fake lottery tickets, and he participated in motor vehicle theft. In the 1970s, he began to work for various contraband smugglers, often kidnapping and holding people for ransom before beginning to distribute powder cocaine himself, as well as establishing the first smuggling routes into the United States in 1975. His infiltration to the drug market of the U.S. expanded exponentially due to the rising demand for cocaine and, by the 1980s, it was estimated that 70 to 80 tons of cocaine were being shipped from Colombia to the U.S. on a monthly basis. His drug network was commonly known as the Medellín Cartel, which often competed with rival cartels domestically and abroad, resulting in massacres and the murders of police officers, judges, locals, and prominent politicians. </string>
+    <string name="Report_text">Report</string>
+    <string name="backBtnText">Back</string>
+    <string name="callBtnText">Call 888</string>
+    <string name="gpsBtnText">GPS position</string>
+    <string name="sendBtnText">Send</string>
+    <string name="pictureBtnText">Take picture</string>
+</resources>
